@@ -25,8 +25,9 @@ Tuna (ﾉ≧ڡ≦) Teehee
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=ndn2k5&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![](images/bank.jpg)
+<img src="images/bank.jpg" width="300" alt="Friend's Image">
+
+---
